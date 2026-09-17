@@ -15,6 +15,7 @@ npm run dev                 # http://localhost:5000
 
 ## Base URLs
 
+- **Production (live):** `https://flowboardy-api.vercel.app/api`
 - Local: `http://localhost:5000/api`
 - Deployed: the URL of your own Vercel/Node deployment (see root `README.md` → Deployment)
 
